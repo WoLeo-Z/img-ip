@@ -1,0 +1,7 @@
+{
+  "name": "img-ip",
+  "description": "Deploy img-ip to heroku",
+  "website": "https://github.com/woleo-z/img-ip",
+  "repository": "https://github.com/woleo-z/img-ip",
+  "success_url": "/"
+}
